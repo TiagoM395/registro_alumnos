@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": 16,
+    "name": "Tiago",
+    "career": "matematica"
+  },
+  {
+    "id": 18,
+    "name": "juan",
+    "career": "profesorado de literatura"
+  },
+  {
+    "id": 19,
+    "name": "camila",
+    "career": "biologia"
+  },
+  {
+    "id": 20,
+    "name": "gonzalo",
+    "career": "tecnicatura en psicopedagogia"
+  },
+  {
+    "id": 21,
+    "name": "ester",
+    "career": "profesorado de  ingles"
+  },
+  {
+    "id": 22,
+    "name": "brisa",
+    "career": "tecnicatura superior en higiene y seguridad"
+  },
+  {
+    "id": 23,
+    "name": "ignacio",
+    "career": "profesorado de educacion fisica"
+  },
+  {
+    "id": 24,
+    "name": "daniel",
+    "career": "tecnicatura superior en enfermeria"
+  },
+  {
+    "id": 25,
+    "name": "rosa",
+    "career": "Tecnicatura superior en trabajo social"
+  },
+  {
+    "id": 26,
+    "name": "ezequiel",
+    "career": "literatura"
+  }
+]
