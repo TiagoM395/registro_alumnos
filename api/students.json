@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": 18,
+    "name": "juan",
+    "career": "profesorado de literatura"
+  },
+  {
+    "id": 20,
+    "name": "gonzalo",
+    "career": "tecnicatura en psicopedagogia"
+  },
+  {
+    "id": 22,
+    "name": "brisa",
+    "career": "tecnicatura superior en higiene y seguridad"
+  },
+  {
+    "id": 25,
+    "name": "rosa",
+    "career": "Tecnicatura superior en trabajo social"
+  },
+  {
+    "id": 26,
+    "name": "ezequiel",
+    "career": "literatura"
+  },
+  {
+    "id": 27,
+    "name": "juancito",
+    "career": "profesorado de literatura"
+  }
+]

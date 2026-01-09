@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "artes y humanidades"
+  },
+  {
+    "id": 2,
+    "name": "ciencias sociales y juridicas"
+  },
+  {
+    "id": 4,
+    "name": "ciencias naturales"
+  },
+  {
+    "id": 5,
+    "name": "ciencias de la salud"
+  },
+  {
+    "id": 6,
+    "name": "carreras tecnicas"
+  },
+  {
+    "id": 7,
+    "name": "ciencias empresariales"
+  },
+  {
+    "id": 8,
+    "name": "Tecnologia y comunicaciones"
+  },
+  {
+    "id": 9,
+    "name": "educacion y desarrollo"
+  },
+  {
+    "id": 10,
+    "name": "ciencias de la educacion especial"
+  },
+  {
+    "id": 11,
+    "name": "fff"
+  }
+]
